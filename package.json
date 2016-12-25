@@ -1,0 +1,24 @@
+{
+  "name": "mfb-eslint-server",
+  "version": "1.0.0",
+  "description": "My Food Bag's ESLint configuration for Node.js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyFoodBag/eslint-config-mfb-node.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "mfb"
+  ],
+  "author": "Walter Rumsby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyFoodBag/eslint-config-mfb-node/issues"
+  },
+  "homepage": "https://github.com/MyFoodBag/eslint-config-mfb-node#readme"
+}

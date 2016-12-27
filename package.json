@@ -4,6 +4,7 @@
   "description": "My Food Bag's ESLint configuration for Node.js code",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/MyFoodBag/eslint-config-mfb-node/issues"
   },
-  "homepage": "https://github.com/MyFoodBag/eslint-config-mfb-node#readme"
+  "homepage": "https://github.com/MyFoodBag/eslint-config-mfb-node#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  }
 }

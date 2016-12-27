@@ -1,4 +1,4 @@
-# eslint-config-mfb-node
+# eslint-config-mfb-node [![Build Status](https://travis-ci.org/MyFoodBag/eslint-config-mfb-node.svg?branch=master)](https://travis-ci.org/MyFoodBag/eslint-config-mfb-node)
 
 [My Food Bag](https://github.com/MyFoodBag)'s [ESLint](http://eslint.org/) configuration for Node.js code.
 

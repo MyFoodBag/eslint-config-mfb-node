@@ -21,10 +21,10 @@ Add `"extends": "mfb-node"` to your `.eslintrc`, e.g.
   "extends": "mfb-node",
   
   "rules": {
-    ...
+    
   }
 }
-``
+```
 
 ## Git hooks
 

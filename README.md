@@ -8,7 +8,23 @@
 npm install --save-dev eslint-config-mfb-node
 ```
 
-Add `"extends": "mfb-node"` to your `.eslintrc`.
+or
+
+```
+yarn add -D eslint-config-mfb-node
+```
+
+Add `"extends": "mfb-node"` to your `.eslintrc`, e.g.
+
+```json
+{
+  "extends": "mfb-node",
+  
+  "rules": {
+    ...
+  }
+}
+``
 
 ## Git hooks
 

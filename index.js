@@ -23,7 +23,7 @@ module.exports = {
     "newline-after-var": ["error", "always"],
     "newline-before-return": "error",
     "no-array-constructor": "error",
-    "no-confusing-arrow": "error",
+    "no-confusing-arrow": ["error", {"allowParens": true}],
     "no-console": "error",
     "no-eval": "error",
     "no-extend-native": "error",

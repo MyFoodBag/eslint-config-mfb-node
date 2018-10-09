@@ -1,6 +1,10 @@
 module.exports = {
   "extends": "eslint:recommended",
 
+  "plugins": [
+    "import"
+  ],
+
   "env": {
     "node": true,
     "es6": true,
@@ -8,6 +12,8 @@ module.exports = {
   },
 
   "rules": {
+    "import/no-amd": "error",
+    "import/no-unresolved": ["error", {"commonjs": true}],
     "arrow-body-style": ["error", "as-needed"],
     "brace-style": ["error", "1tbs"],
     "camelcase": "error",

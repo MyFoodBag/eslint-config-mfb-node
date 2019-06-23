@@ -1,11 +1,8 @@
 {
   "name": "eslint-config-mfb-node",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "My Food Bag's ESLint configuration for Node.js code",
   "main": "index.js",
-  "engines": {
-    "node": ">= 4.0.0"
-  },
   "scripts": {
     "lint": "eslint .",
     "test": "tape tests/**/*.js"
@@ -29,10 +26,10 @@
     "eslint-plugin-import": "^2.2.0"
   },
   "devDependencies": {
-    "eslint": "^3.13.0",
+    "eslint": "^5.16.0",
     "tape": "^4.6.3"
   },
   "peerDependencies": {
-    "eslint": "^3.3.0"
+    "eslint": ">=4"
   }
 }

@@ -1,3 +1,7 @@
+# Deprecated
+
+This project is no longer maintained. Please use https://github.com/MyFoodBag/eslint for future linting needs!
+
 # eslint-config-mfb-node [![Build Status](https://travis-ci.org/MyFoodBag/eslint-config-mfb-node.svg?branch=master)](https://travis-ci.org/MyFoodBag/eslint-config-mfb-node)
 
 [My Food Bag](https://github.com/MyFoodBag)'s [ESLint](http://eslint.org/) configuration for Node.js code.
